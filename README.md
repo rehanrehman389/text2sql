@@ -4,4 +4,4 @@ Text to SQL using Google Gemini AI API
 
 #### License
 
-mit
+mit# text2sql
